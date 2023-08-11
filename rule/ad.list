@@ -1,0 +1,9 @@
+# NAME: ad
+# AUTHOR: dandeeding
+# REPO: https://github.com/dandee-ding/ios_rule_script
+# UPDATED: 2023-07-20 23:20:05
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 1
+# USER-AGENT: 2
+# TOTAL: 11
+  DOMAIN-SUFFIX,pfhj89w.com
