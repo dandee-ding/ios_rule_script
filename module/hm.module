@@ -2,6 +2,7 @@
 #!desc=hm_list
 [Rule]
 DOMAIN-SUFFIX,gzcti.ujgf120.com,REJECT
+DOMAIN-SUFFIX,js.haolinwang.com,REJECT
 DOMAIN-SUFFIX,99hanman.top,PROXY
 DOMAIN-SUFFIX,sehuatang.net,PROXY
 DOMAIN-KEYWORD,js.1,REJECT
