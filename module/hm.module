@@ -1,7 +1,7 @@
 #!name=hm_list
 #!desc=hm_list
 [Rule]
-IP-CIDR,118.89.204.198/32,REJECT
+IP-CIDR,45.194.21.77/32,REJECT
 DOMAIN-SUFFIX,gzcti.ujgf120.com,REJECT
 DOMAIN-SUFFIX,99hanman.top,PROXY
 DOMAIN-SUFFIX,sehuatang.net,PROXY
