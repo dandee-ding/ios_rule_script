@@ -3,6 +3,7 @@
 [Rule]
 DOMAIN-SUFFIX,js.haolinwang.com,REJECT
 DOMAIN-SUFFIX,nn.yjnkmnd.com,REJECT
+DOMAIN-SUFFIX,getui.com,REJECT
 DOMAIN-SUFFIX,tfcdn.jingmiuyyds.com,REJECT
 DOMAIN-SUFFIX,99hanman.top,PROXY
 DOMAIN-SUFFIX,sehuatang.net,PROXY
